@@ -1,0 +1,7 @@
+numpy>=1.24
+matplotlib>=3.7
+nltk>=3.8
+tqdm>=4.66
+# API clients (only needed to launch new model runs)
+openai>=1.30
+anthropic>=0.25

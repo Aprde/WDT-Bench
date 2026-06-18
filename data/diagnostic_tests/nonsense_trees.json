@@ -1,0 +1,242 @@
+[
+  {
+    "sentence": "His enthusiasm died of a price sight",
+    "tree": "(S (NP (PRP$ His) (NN enthusiasm)) (VP (VBD died) (PP (IN of) (NP (DT a) (NN price) (NN sight)))))"
+  },
+  {
+    "sentence": "The construction happened on giant economy",
+    "tree": "(S (NP (DT The) (NN construction)) (VP (VBD happened) (PP (IN on) (NP (JJ giant) (NN economy)))))"
+  },
+  {
+    "sentence": "His chance lived in a light radio",
+    "tree": "(S (NP (PRP$ His) (NN chance)) (VP (VBD lived) (PP (IN in) (NP (DT a) (JJ light) (NN radio)))))"
+  },
+  {
+    "sentence": "Most data live in steep data",
+    "tree": "(S (NP (JJS Most) (NNS data)) (VP (VBP live) (PP (IN in) (NP (JJ steep) (NNS data)))))"
+  },
+  {
+    "sentence": "The opening funds sat on the bid",
+    "tree": "(S (NP (DT The) (NN opening) (NNS funds)) (VP (VBD sat) (PP (IN on) (NP (DT the) (NN bid)))))"
+  },
+  {
+    "sentence": "The common effort looked at the trading",
+    "tree": "(S (NP (DT The) (JJ common) (NN effort)) (VP (VBD looked) (PP (IN at) (NP (DT the) (NN trading)))))"
+  },
+  {
+    "sentence": "A disappointing recognition happened on their session week",
+    "tree": "(S (NP (DT A) (JJ disappointing) (NN recognition)) (VP (VBD happened) (PP (IN on) (NP (PRP$ their) (NN session) (NN week)))))"
+  },
+  {
+    "sentence": "A unexplained niche appeared in the high argument meat",
+    "tree": "(S (NP (DT A) (JJ unexplained) (NN niche)) (VP (VBD appeared) (PP (IN in) (NP (DT the) (NP (JJ high) (NN argument)) (NN meat)))))"
+  },
+  {
+    "sentence": "The cultures look at the substantial reason",
+    "tree": "(S (NP (DT The) (NNS cultures)) (VP (VBP look) (PP (IN at) (NP (DT the) (JJ substantial) (NN reason)))))"
+  },
+  {
+    "sentence": "The budget rests on the global telephone",
+    "tree": "(S (NP (DT The) (NN budget)) (VP (VBZ rests) (PP (IN on) (NP (DT the) (JJ global) (NN telephone)))))"
+  },
+  {
+    "sentence": "A activity walks towards the slowing year",
+    "tree": "(S (NP (DT A) (NN activity)) (VP (VBZ walks) (PP (IN towards) (NP (DT the) (VBG slowing) (NN year)))))"
+  },
+  {
+    "sentence": "The obvious summer lies on the retrieval",
+    "tree": "(S (NP (DT The) (JJ obvious) (NN summer)) (VP (VBZ lies) (PP (IN on) (NP (DT the) (NN retrieval)))))"
+  },
+  {
+    "sentence": "A year hangs at his urgency",
+    "tree": "(S (NP (DT A) (NN year)) (VP (VBZ hangs) (PP (IN at) (NP (PRP$ his) (NN urgency)))))"
+  },
+  {
+    "sentence": "The thin banks lie in the new industry",
+    "tree": "(S (NP (DT The) (JJ thin) (NNS banks)) (VP (VBP lie) (PP (IN in) (NP (DT the) (JJ new) (NN industry)))))"
+  },
+  {
+    "sentence": "Windy sales live in the sleepy hallmark",
+    "tree": "(S (NP (JJ Windy) (NNS sales)) (VP (VBP live) (PP (IN in) (NP (DT the) (JJ sleepy) (NN hallmark)))))"
+  },
+  {
+    "sentence": "The source business points to the best deficiency",
+    "tree": "(S (NP (DT The) (NN source) (NN business)) (VP (VBZ points) (PP (IN to) (NP (DT the) (JJS best) (NN deficiency)))))"
+  },
+  {
+    "sentence": "The similar house stays on the rich culture",
+    "tree": "(S (NP (DT The) (JJ similar) (NN house)) (VP (VBZ stays) (PP (IN on) (NP (DT the) (JJ rich) (NN culture)))))"
+  },
+  {
+    "sentence": "The same furor walks towards the mail loss",
+    "tree": "(S (NP (DT The) (JJ same) (NN furor)) (VP (VBZ walks) (PP (IN towards) (NP (DT the) (NN mail) (NN loss)))))"
+  },
+  {
+    "sentence": "The touchy machines sat at the process business",
+    "tree": "(S (NP (DT The) (JJ touchy) (NNS machines)) (VP (VBD sat) (PP (IN at) (NP (DT the) (NN process) (NN business)))))"
+  },
+  {
+    "sentence": "The several company died from a great space",
+    "tree": "(S (NP (DT The) (JJ several) (NN company)) (VP (VBD died) (PP (IN from) (NP (DT a) (JJ great) (NN space)))))"
+  },
+  {
+    "sentence": "His facts lie on the alert war",
+    "tree": "(S (NP (PRP$ His) (NNS facts)) (VP (VBP lie) (PP (IN on) (NP (DT the) (JJ alert) (NN war)))))"
+  },
+  {
+    "sentence": "The similar portfolio lies in the high touchdown",
+    "tree": "(S (NP (DT The) (JJ similar) (NN portfolio)) (VP (VBZ lies) (PP (IN in) (NP (DT the) (JJ high) (NN touchdown)))))"
+  },
+  {
+    "sentence": "The real panic points to an renewed mistrust",
+    "tree": "(S (NP (DT The) (JJ real) (NN panic)) (VP (VBZ points) (PP (IN to) (NP (DT an) (VBN renewed) (NN mistrust)))))"
+  },
+  {
+    "sentence": "The several demand stays in the consecutive industry",
+    "tree": "(S (NP (DT The) (JJ several) (NN demand)) (VP (VBZ stays) (PP (IN in) (NP (DT the) (JJ consecutive) (NN industry)))))"
+  },
+  {
+    "sentence": "The other board looks at the sense guide window",
+    "tree": "(S (NP (DT The) (JJ other) (NN board)) (VP (VBZ looks) (PP (IN at) (NP (DT the) (NP (NN sense) (NN guide)) (NN window)))))"
+  },
+  {
+    "sentence": "A specialized share walks towards the forest office",
+    "tree": "(S (NP (DT A) (JJ specialized) (NN share)) (VP (VBZ walks) (PP (IN towards) (NP (DT the) (NN forest) (NN office)))))"
+  },
+  {
+    "sentence": "The strong commission lies on the big blue cost",
+    "tree": "(S (NP (DT The) (JJ strong) (NN commission)) (VP (VBZ lies) (PP (IN on) (NP (DT the) (JJ big) (JJ blue) (NN cost)))))"
+  },
+  {
+    "sentence": "The intimate bill stays in the invented amount",
+    "tree": "(S (NP (DT The) (JJ intimate) (NN bill)) (VP (VBZ stays) (PP (IN in) (NP (DT the) (VBN invented) (NN amount)))))"
+  },
+  {
+    "sentence": "His convulsions rushed to his taste",
+    "tree": "(S (NP (PRP$ His) (NNS convulsions)) (VP (VBD rushed) (PP (IN to) (NP (PRP$ his) (NN taste)))))"
+  },
+  {
+    "sentence": "The director begins in an first noise",
+    "tree": "(S (NP (DT The) (NN director)) (VP (VBZ begins) (PP (IN in) (NP (DT an) (JJ first) (NN noise)))))"
+  },
+  {
+    "sentence": "什么接口死于这老公",
+    "tree": "(TOP (IP (NP (DP (DT 什么)) (NP (NN 接口))) (VP (VV 死) (PP (P 于) (NP (DP (DT 这)) (NP (NN 老公)))))))"
+  },
+  {
+    "sentence": "这屏幕发生在驾照精神",
+    "tree": "(TOP (IP (NP (DP (DT 这)) (NP (NN 屏幕))) (VP (VV 发生) (PP (P 在) (NP (NN 驾照) (NN 精神))))))"
+  },
+  {
+    "sentence": "别的户口生活在其他宏伟护士里",
+    "tree": "(TOP (IP (NP (DP (DT 别的)) (NP (NN 户口))) (VP (VV 生活) (PP (P 在) (NP (NP (DP (DT 其他)) (ADJP (JJ 宏伟)) (NP (NN 护士))) (LC 里))))))"
+  },
+  {
+    "sentence": "这经理生活在耐心公园",
+    "tree": "(TOP (IP (NP (DP (DT 这)) (NP (NN 经理))) (VP (VV 生活) (PP (P 在) (NP (NN 耐心) (NP (NN 公园)))))))"
+  },
+  {
+    "sentence": "很多安排坐在事情上",
+    "tree": "(TOP (IP (NP (CD 很多)(NN 安排)) (VP (VV 坐) (PP (P 在) (NP (NP (NN 事情)) (LC 上))))))"
+  },
+  {
+    "sentence": "这些英语看向显卡",
+    "tree": "(TOP (IP (DP (DT 这些)(NN 英语)) (VP (VV 看) (PP (P 向) (NP (NN 显卡))))))"
+  },
+  {
+    "sentence": "多少低矮的意思发生在你的电梯上",
+    "tree": "(TOP (IP (NP (QP (CD 多少)) (ADJP (JJ 低矮) (DEC 的)) (NP (NN 意思))) (VP (VV 发生) (PP (P 在) (NP (NP (DNP (NP (PN 你)) (DEG 的)) (NP (NN 电梯))) (LC 上))))))"
+  },
+  {
+    "sentence": "两个价位出现在严肃的历史上",
+    "tree": "(TOP (IP (NP (QP (CD 两个)) (NP (NN 价位))) (VP (VV 出现) (PP (P 在) (NP (NP (CP  (JJ 严肃) (DEG 的)) (NP (NN 历史))) (LC 上))))))"
+  },
+  {
+    "sentence": "暑假医生看向新的幸福",
+    "tree": "(TOP (IP (NP (NP (NN 暑假)) (NP (NN 医生))) (VP (VV 看) (PP (P 向) (NP (CP (JJ 新) (DEC 的)) (NP (NN 幸福)))))))"
+  },
+  {
+    "sentence": "想法护照停在根本交换机上",
+    "tree": "(TOP (IP (NP (NP (NN 想法)) (NP (NN 护照)))  (VP (VV 停) (PP (P 在) (NP (NP (ADJP (JJ 根本)) (NP (NN 交换机))) (LC 上))))))"
+  },
+  {
+    "sentence": "一家酒店走向繁忙的眼霜",
+    "tree": "(TOP (IP (NP (QP (CD 一家)) (NP (NN 酒店))) (VP (VV 走) (PP (P 向) (NP (CP (JJ 繁忙) (DEC 的)) (NP (NN 眼霜)))))))"
+  },
+  {
+    "sentence": "大型的达人摆放在网线中",
+    "tree": "(TOP (IP (NP (DNP (ADJP (JJ 大型)) (DEG 的)) (NP (NN 达人))) (VP (VV 摆放) (PP (P 在) (NP (NP (NN 网线)) (LC 中))))))"
+  },
+  {
+    "sentence": "两个教育挂在你的科技",
+    "tree": "(TOP (IP (NP (QP (CD 两个)) (NP (NN 教育))) (VP (VV 挂) (PP (P 在) (NP (DNP (NP (PN 你)) (DEG 的)) (NP (NN 科技)))))))"
+  },
+  {
+    "sentence": "纯粹的师傅放在房东里",
+    "tree": "(TOP (IP (NP (DNP (ADJP (JJ 纯粹)) (BA 的)) (NP (NN 师傅))) (VP (VV 放) (PP (P 在) (NP (NP (NN 房东)) (LC 里))))))"
+  },
+  {
+    "sentence": "不少家庭生活在天线里",
+    "tree": "(TOP (IP (NP (QP (CD 不少)) (NP (NN 家庭))) (VP (VV 生活) (PP (P 在) (NP (NP (NN 天线)) (LC 里))))))"
+  },
+  {
+    "sentence": "公园指向行政的天线",
+    "tree": "(TOP (IP (NP (NN 公园)) (VP (VV 指) (PP (P 向) (NP (DNP (NP (NN 行政)) (DEC 的)) (NP (NN 天线)))))))"
+  },
+  {
+    "sentence": "男的结果放在友情科技",
+    "tree": "(TOP (IP (NP (DNP (NP (JJ 男)) (DEG 的)) (NP (NN 结果)))  (VP (VV 放) (PP (P 在) (NP (NN 友情) (NN 科技))))))"
+  },
+  {
+    "sentence": "小客套走向常识",
+    "tree": "(TOP (IP (NP (ADJP (JJ 小)) (NP (NN 客套))) (VP (V 走) (PP (P 向) (NP (NN 常识))))))"
+  },
+  {
+    "sentence": "活的电子会计坐在公安时间上",
+    "tree": "(TOP (IP (NP (CP (JJ 活) (DEC 的)) (NP (NN 电子) (NN 会计))) (VP (VV 坐) (PP (P 在) (NP (NP (NN 公安) (NN 时间)) (LC 上))))))"
+  },
+  {
+    "sentence": "这些个大的男人死于好多高中",
+    "tree": "(TOP (IP (NP (DP (DT 这些) (CLP (M 个))) (CP  (JJ 大) (DEG 的)) (NP (NN 男人))) (VP (VV 死) (PP (P 于) (NP (QP (CD 好多)) (NP (NN 高中)))))))"
+  },
+  {
+    "sentence": "俺的势头放在游击队里",
+    "tree": "(TOP (IP (NP (DNP (NP (PN 俺)) (DEG 的)) (NP (NN 势头))) (VP (VV 放) (PP (P 在) (NP (NP (NN 游击队)) (LC 里))))))"
+  },
+  {
+    "sentence": "机会水平位于所谓的学期",
+    "tree": "(TOP (IP (NP (NN 机会) (NN 水平)) (VP (VV 位) (PP (P 于)(NP (DNP (ADJP (JJ 所谓)) (DEG 的)) (NP (NN 学期)))))))"
+  },
+  {
+    "sentence": "胖标书指向原版的老乡",
+    "tree": "(TOP (IP (NP (ADJP (JJ 胖)) (NP (NN 标书))) (VP (VV 指) (PP (P 向) (NP (DNP (NP (JJ 原版)) (DEG 的)) (NP (NN 老乡)))))))"
+  },
+  {
+    "sentence": "光头标书停在夜行的电子版上",
+    "tree": "(TOP (IP (NP (JJ 光头) (NN 标) (NN 书)) (VP (VV 停) (PP (P 在) (NP (NP (DNP (NP (NN 夜行)) (DEC 的)) (NP (NN 电子版))) (LC 上))))))"
+  },
+  {
+    "sentence": "老工作看向价格的对话",
+    "tree": "(TOP (IP (NP (ADJP (JJ 老)) (NP (NN 工作))) (VP (VV 看) (PP (P 向) (NP (DNP (NP (NN 价格)) (DEC 的)) (NP (NN 对话)))))))"
+  },
+  {
+    "sentence": "一条新的时间走向人品学前班",
+    "tree": "(TOP (IP (NP (QP (CD 一) (CLP (M 条))) (CP (JJ 新) (DEC 的)) (NP (NN 时间))) (VP (VV 走) (PP (P 向) (NP (NN 人品) (NP (NN 学前班)))))))"
+  },
+  {
+    "sentence": "哪个大厕所放在科技中",
+    "tree": "(TOP (IP (NP (DP (DT 哪个)) (ADJP (JJ 大)) (NP (NN 厕所))) (VP (VV 放) (PP (P 在) (NP (NP (NN 科技)) (LC 中))))))"
+  },
+  {
+    "sentence": "这同质化策划保存在同事样子上",
+    "tree": "(TOP (IP (NP (DP (DT 这)) (ADJP (NN 同质化)) (NP (NN 策划))) (VP (VV 保存) (PP (P 在) (NP (NP (NN 同事) (NP (NN 样子))) (LC 上))))))"
+  },
+  {
+    "sentence": "我的燃料冲到工号旁边",
+    "tree": "(TOP (IP (NP (DNP (NP (PN 我)) (DEG 的)) (NP (NN 燃料))) (VP (VRD (VV 冲) ) (PP (VV 到)(NP (NN 工号) (NN 旁边))))))"
+  },
+  {
+    "sentence": "那个电池始于不少工号",
+    "tree": "(TOP (IP (NP (DP (DT 那个)) (NP (NN 电池))) (VP (V 始于) (PP (P 于) (NP (QP (CD 不少)) (NP (NN 工号)))))))"
+  }
+]

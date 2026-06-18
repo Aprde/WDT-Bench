@@ -1,0 +1,122 @@
+[
+  {
+    "sentence": "The photographer adjusted the lens",
+    "label": "The photographer adjusted"
+  },
+  {
+    "sentence": "The bird sang a melody",
+    "label": "The bird sang"
+  },
+  {
+    "sentence": "The chef cooked the meal",
+    "label": "The chef cooked"
+  },
+  {
+    "sentence": "The teacher explained the concept",
+    "label": "The teacher explained"
+  },
+  {
+    "sentence": "The gardener watered the plants",
+    "label": "The gardener watered"
+  },
+  {
+    "sentence": "The fisherman caught the trout",
+    "label": "The fisherman caught"
+  },
+  {
+    "sentence": "The student solved the equation",
+    "label": "The student solved"
+  },
+  {
+    "sentence": "The carpenter built the house",
+    "label": "The carpenter built"
+  },
+  {
+    "sentence": "The programmer wrote the code",
+    "label": "The programmer wrote"
+  },
+  {
+    "sentence": "The dancer performed the routine",
+    "label": "The dancer performed"
+  },
+  {
+    "sentence": "The singer composed a song",
+    "label": "The singer composed"
+  },
+  {
+    "sentence": "The pilot flew the airplane",
+    "label": "The pilot flew"
+  },
+  {
+    "sentence": "The detective solved the mystery",
+    "label": "The detective solved"
+  },
+  {
+    "sentence": "The baker baked the cake",
+    "label": "The baker baked"
+  },
+  {
+    "sentence": "The journalist reported the news",
+    "label": "The journalist reported"
+  },
+  {
+    "sentence": "The hiker climbed the mountain",
+    "label": "The hiker climbed"
+  },
+  {
+    "sentence": "The lawyer argued the case",
+    "label": "The lawyer argued"
+  },
+  {
+    "sentence": "The baker kneaded the dough",
+    "label": "The baker kneaded"
+  },
+  {
+    "sentence": "The musician tuned the guitar",
+    "label": "The musician tuned"
+  },
+  {
+    "sentence": "The mechanic fixed the engine",
+    "label": "The mechanic fixed"
+  },
+  {
+    "sentence": "The architect designed the building",
+    "label": "The architect designed"
+  },
+  {
+    "sentence": "The librarian sorted the books",
+    "label": "The librarian sorted"
+  },
+  {
+    "sentence": "The jeweler polished the diamond",
+    "label": "The jeweler polished"
+  },
+  {
+    "sentence": "The sculptor chiseled the statue",
+    "label": "The sculptor chiseled"
+  },
+  {
+    "sentence": "The chef seasoned the soup",
+    "label": "The chef seasoned"
+  },
+  {
+    "sentence": "The tailor altered the coat",
+    "label": "The tailor altered"
+  },
+  {
+    "sentence": "The student read the book",
+    "label": "The student read"
+  },
+  {
+    "sentence": "The gamer played the game",
+    "label": "The gamer played"
+  },
+  {
+    "sentence": "The driver steered the car",
+    "label": "The driver steered"
+  },
+  {
+    "sentence": "The actor memorized the script",
+    "label": "The actor memorized"
+  }
+]

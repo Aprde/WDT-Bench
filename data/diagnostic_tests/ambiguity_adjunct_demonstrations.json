@@ -1,0 +1,122 @@
+[
+  {
+    "sentence": "The collection of the store fascinated the students",
+    "label": "The collection of fascinated the students"
+  },
+  {
+    "sentence": "The house of the painter looked odd",
+    "label": "The house of looked odd"
+  },
+  {
+    "sentence": "The plains of the tribe looked strange",
+    "label": "The plains of looked strange"
+  },
+  {
+    "sentence": "The attorney of the company bothered me",
+    "label": "The attorney of bothered me"
+  },
+  {
+    "sentence": "The forest of the animals pleased us",
+    "label": "The forest of pleased us"
+  },
+  {
+    "sentence": "The manager of the factory was efficient",
+    "label": "The manager of was efficient"
+  },
+  {
+    "sentence": "The king of the mountain impressed Arthur",
+    "label": "The king of impressed Arthur"
+  },
+  {
+    "sentence": "The director of the orchestra played well",
+    "label": "The director of played well"
+  },
+  {
+    "sentence": "The dog of the officer came back this evening",
+    "label": "The dog of came back this evening"
+  },
+  {
+    "sentence": "The designer of the dress took a bow",
+    "label": "The designer of took a bow"
+  },
+  {
+    "sentence": "The photographer of the exhibition sold his favorite piece",
+    "label": "The photographer of sold his favorite piece"
+  },
+  {
+    "sentence": "The artist of the mural completed his work",
+    "label": "The artist of completed his work"
+  },
+  {
+    "sentence": "The sailor of the ship arrived this afternoon",
+    "label": "The sailor of arrived this afternoon"
+  },
+  {
+    "sentence": "The dancer of the troupe dazzled the audience",
+    "label": "The dancer of dazzled the audience"
+  },
+  {
+    "sentence": "The library of the school attracted many scholarse",
+    "label": "The library of attracted many scholarse"
+  },
+  {
+    "sentence": "The exhibit of the museum intrigued the historians",
+    "label": "The exhibit of intrigued the historians"
+  },
+  {
+    "sentence": "The park of the city delighted the children",
+    "label": "The park of delighted the children"
+  },
+  {
+    "sentence": "The song of the player is really popular",
+    "label": "The song of is really popular"
+  },
+  {
+    "sentence": "The beach of the island mesmerized the couples",
+    "label": "The beach of mesmerized the couples"
+  },
+  {
+    "sentence": "The lake of the area enchanted the swimmers",
+    "label": "The lake of enchanted the swimmers"
+  },
+  {
+    "sentence": "The festival of the village entertained the guests",
+    "label": "The festival of entertained the guests"
+  },
+  {
+    "sentence": "The castle of the kingdom awed the tourists",
+    "label": "The castle of awed the tourists"
+  },
+  {
+    "sentence": "The bakery of the district tempted the locals",
+    "label": "The bakery of tempted the locals"
+  },
+  {
+    "sentence": "The plaza of the metropolis energized the crowd",
+    "label": "The plaza of energized the crowd"
+  },
+  {
+    "sentence": "The gallery of the center impressed the critics",
+    "label": "The gallery of impressed the critics"
+  },
+  {
+    "sentence": "The alley of the town fascinated art lovers",
+    "label": "The alley of the town fascinated art lovers"
+  },
+  {
+    "sentence": "The orchard of the farm tempted the foodies",
+    "label": "The orchard of tempted the foodies"
+  },
+  {
+    "sentence": "The market of the city attracted the collectors",
+    "label": "The market of attracted the collectors"
+  },
+  {
+    "sentence": "The observatory of the institute amazed the astronomers",
+    "label": "The observatory of amazed the astronomers"
+  },
+  {
+    "sentence": "The mansion of the celebrity excited the fans",
+    "label": "The mansion of excited the fans"
+  }
+]
