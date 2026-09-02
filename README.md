@@ -2,7 +2,8 @@
 
 Data and code for **WDT-Bench**, a Word Deletion benchmark for implicitly
 evaluating the syntactic competence of large language models. See
-[paper](paper.pdf) and [Appendix](appendix.pdf). The benchmark standardises the
+[paper](https://github.com/Aprde/WDT-Bench/blob/main/paper.pdf) and
+[appendix](https://github.com/Aprde/WDT-Bench/blob/main/appendix.pdf). The benchmark standardises the
 word deletion task into six tests, organised into two components:
 
 - **General Tests (Tests 1-3)** - natural CoNLL-2000 sentences, for
